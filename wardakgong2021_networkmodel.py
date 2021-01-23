@@ -1,6 +1,6 @@
 """Network model.
 
-Author: Asem Wardak
+Author: Asem Wardak. Classical model adapted from brunel_delta_nest.py
 
 This file provides functions containing simulation code for the classical,
 homogeneous and fractional, heterogeneous network models.
