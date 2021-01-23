@@ -1,5 +1,6 @@
 
 function [fftally] = fanocalc(spkTim,b)
+% Compute the Fano factor of `spkTim` given bins `b`.
 
 %numpoints=1000;
 %b = logspace(-1,2.5,numpoints); %spacing of points in units of spike time
