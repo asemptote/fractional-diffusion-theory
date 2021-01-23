@@ -1,7 +1,9 @@
 """Runs the network model on a single machine.
 
-Parameter details can be found in the companion article. Note that the data
-folders must be created before running this file.
+Author: Asem Wardak
+
+Usage: Create empty data folders then run this file. Parameter details can be
+       found in the companion article.
 """
 
 import sys
