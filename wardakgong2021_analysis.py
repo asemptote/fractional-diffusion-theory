@@ -13,7 +13,7 @@ except NameError:
     from gc import collect
     from functools import partial
     
-    #define pool context manager to support the 'with' statement in Python 2
+    # define pool context manager to support the 'with' statement in Python 2
     # https://stackoverflow.com/a/54720031
     from sys import version_info
     from multiprocessing import Pool
