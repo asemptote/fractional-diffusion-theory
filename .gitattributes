@@ -4,3 +4,5 @@ nb/wardakgong2021_calcs.nb -linguist-detectable
 nb/wardakgong2021_plots.nb -linguist-detectable
 nb/wardakgong2021_networkquantities.nb -linguist-detectable
 nb/wardakgong2021_montecarlo.nb -linguist-detectable
+
+*.csh linguist-detectable
