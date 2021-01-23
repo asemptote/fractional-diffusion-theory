@@ -1,6 +1,3 @@
 
 # These files contain output data which skew the reported language distribution
-nb/wardakgong2021_calcs.nb -linguist-detectable
-nb/wardakgong2021_plots.nb -linguist-detectable
-nb/wardakgong2021_networkquantities.nb -linguist-detectable
-nb/wardakgong2021_montecarlo.nb -linguist-detectable
+nb/* -linguist-detectable
