@@ -1,3 +1,12 @@
+"""Network output analysis.
+
+Author: Asem Wardak
+
+This file provides functions to analyse the simulation output and
+generate some of the figures in the main article; the other figures are
+produced in the Wolfram Language notebooks, found at `nb/*`.
+"""
+
 try:
     np
 except NameError:
