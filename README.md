@@ -12,4 +12,4 @@ The simulations require only Python and NEST, while some analyses additionally r
 The file `wardakgong2021_sim.py` sets parameters for and simulates the network model functions in `wardakgong2021_networkmodel.py`.
 The resultant simulation data is analysed in `wardakgong2021_analysis.py` and `nb/wardakgong2021_networkquantities.nb`.
 
-The files `nb/wardakgong2021_[defs|calcs|plots].nb` contain analytical calculations involving the stationary solution to the fractional Fokker-Planck equation, while `nb/wardakgong2021_montecarlo.nb` contains code used to obtain, via the Monte-Carlo method, the mean-field analytical firing rate distribution.
+The files `nb/wardakgong2021_[defs|calcs|plots].nb` contain theoretical calculations involving the stationary solution to the fractional Fokker-Planck equation, while `nb/wardakgong2021_montecarlo.nb` contains code used to obtain, via the Monte-Carlo method, the mean-field theoretical firing rate distribution.
